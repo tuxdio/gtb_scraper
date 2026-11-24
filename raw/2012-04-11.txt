@@ -1,0 +1,66 @@
+<div id="contentArea">
+      <style type="text/css">
+P.MsoNormal {
+	TEXT-JUSTIFY: inter-ideograph; FONT-SIZE: 10.5pt; MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Calibri","sans-serif"; TEXT-ALIGN: justify
+}
+LI.MsoNormal {
+	TEXT-JUSTIFY: inter-ideograph; FONT-SIZE: 10.5pt; MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Calibri","sans-serif"; TEXT-ALIGN: justify
+}
+DIV.MsoNormal {
+	TEXT-JUSTIFY: inter-ideograph; FONT-SIZE: 10.5pt; MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Calibri","sans-serif"; TEXT-ALIGN: justify
+}
+P.MsoFooter {
+	FONT-SIZE: 9pt; MARGIN: 0cm 0cm 0pt; LAYOUT-GRID-MODE: char; FONT-FAMILY: "Calibri","sans-serif"; tab-stops: center 207.65pt right 415.3pt
+}
+LI.MsoFooter {
+	FONT-SIZE: 9pt; MARGIN: 0cm 0cm 0pt; LAYOUT-GRID-MODE: char; FONT-FAMILY: "Calibri","sans-serif"; tab-stops: center 207.65pt right 415.3pt
+}
+DIV.MsoFooter {
+	FONT-SIZE: 9pt; MARGIN: 0cm 0cm 0pt; LAYOUT-GRID-MODE: char; FONT-FAMILY: "Calibri","sans-serif"; tab-stops: center 207.65pt right 415.3pt
+}
+SPAN .MsoChpDefault {
+	FONT-SIZE: 10pt; FONT-FAMILY: "Calibri","sans-serif"
+}
+DIV.WordSection1 {
+	page: WordSection1
+}
+
+</style>
+<p align="justify"><font style="font-size: 10.5pt">　　4月11日上午10时，国台办在新闻发布厅举行例行新闻发布会。发言人范丽青首先发布了国台办王毅主任4月11日开始对美国进行工作访问的消息，并就推动两岸经贸团体互设办事处、新增大陆居民赴台个人游试点城市等问题回答了记者提问。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">范丽青：</strong>各位上午好。首先向大家报告一个消息，我办王毅主任今天(4月11日)开始对美国进行工作访问，这是我办每年的例行安排。和往年一样，王毅主任赴美期间，将会见美国政府有关部门负责人，同智库的专家学者座谈交流，并看望旅美的台湾同胞。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">范丽青：</strong>下面我愿意回答各位的提问。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">福建厦门卫视记者：</strong>关于两岸经贸团体互设办事处目前有哪些进展？请发言人介绍相关情况。另外是关于两岸的金融交流，王毅主任在新年贺词中说，要尽快建立两岸货币清算机制，这方面是不是也有新的进展？国务院批准在厦门建立两岸区域性的金融服务中心，您认为这个服务中心会在两岸的金融合作当中扮演怎样的角色？谢谢。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">范丽青：</strong>您的第一个问题，“推动两岸经贸社团互设办事机构”是ECFA关于加强两岸经济合作的重要内容之一。两岸经贸社团互设办事机构将为两岸企业的交流合作、共同发展起到牵线搭桥和提供便利的作用。两岸经济合作委员会已就经贸社团互设办事机构事宜达成原则共识。目前，大陆相关管理办法的行政审批程序已基本完成，即将对外发布。届时，台湾的经贸社团可以依据这个管理办法来向大陆业务主管部门提出设立办事处的申请。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">范丽青：</strong>第二个问题，我们积极支持推动建立两岸货币清算机制。希望双方尽早沟通，尽早取得成果。至于厦门，我们支持厦门在两岸交流中“先行先试”，相信这样一些做法有利于促进两岸经贸跟金融方面的合作与交流。谢谢。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">台湾TVBS记者：</strong>请教一个问题，在上个月重庆市委领导班子发生变动之后，台商在当地的权益受到关注，这起事件昨天有进一步的发展，会不会影响台商在重庆的投资信心？另外一方面，台湾领导人马英九日前出访非洲的时候过境印度，这起事件是不是有让大陆方面感到惊讶，会不会影响到两岸的互信？谢谢。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">范丽青：</strong>您的这两个问题都不是新话题了。上次发布会，对于第一个问题，我们已经向大家说明过了。我们相信，重庆的投资环境会越来越好，台商在重庆的投资前景是广阔的。第二个问题，我们的发言人日前也已经回答过了。谢谢。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">福建海峡导报记者：</strong>我有两个问题。第一个问题，两会领导人第八次会谈备受两岸的期待，请问发言人，会谈的具体时间和地点是否已经确定？主要协商的内容包括哪些？第二个问题，日前台湾当局宣布“金门大桥”将于今年5月份正式动工，并且核准大陆的船机以及技术人员参与兴建，创下了两岸工程合作的首例。台湾方面也曾表示，未来将新建“厦金和平大桥”，金门大桥将与“厦金和平大桥”连接，请问您对此有何评价？谢谢。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">范丽青：</strong>您的第一个问题，两会领导人第八次会谈应该在今年上半年举行，具体的时间、地点，都有待两会协商确定。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">范丽青：</strong>第二个问题，金门大桥据说已经规划了一、二十年，它即将开工，我们也很高兴，它可能有利于促进更多的大陆居民赴台旅游。凡是有利于台湾经济建设，有利于两岸民众交流的事，我们都支持。谢谢。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">深圳卫视记者：</strong>这两天有一条新闻比较热，就是西沙的旅游开发，而有专家建议，为了确保南沙的主权问题，两岸可以共同考虑开发南沙的旅游项目，一方面是维护主权，另外也增进两岸的交流，不知道发言人对此有什么看法？第二个问题，日前，第二批赴台个人游的十个城市已经公布了，先行启动的4月28日有6个城市，还有4个城市是在第二批，包括深圳、福州等，不晓得第二批4个城市会在什么时候确定开放？谢谢。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">范丽青：</strong>我们以前已多次表明，中国对南海诸岛及其附近海域拥有无可争辩的主权，两岸同胞都有责任加以维护。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">范丽青：</strong>首批大陆居民赴台个人游试点是去年6月28日启动的，据统计，截至到今年3月底，已有超过5.7万名大陆游客赴台进行了个人游。今年的4月1日，海峡两岸旅游交流协会公布了赴台个人游第二批10个试点城市的名单，其中有6个城市将于4月28日启动赴台个人游，其余的4个城市也将在年内启动。据我们了解，目前旅游主管部门等有关方面正在精心组织各项准备工作。有关赴台个人游的手续办理问题，海峡两岸旅游交流协会的网站上也有很详细的解答。我们相信，做好充分的准备，这些新增的城市启动以后，大陆居民赴台个人游人数将会有一个较大的增长。谢谢。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">中央电视台海峡两岸记者：</strong>据报道今年6、7月份大陆将有几个较大规模的采购团赴台。另外岛内也有一种声音说，大陆赴台采购要缩减，而且有一些采购合同并没有兑现，请发言人说明一下相关的情况。谢谢。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">范丽青：</strong>今年以来，两岸的经济交流合作保持着良好的发展势头，大陆的经贸团组赴台交流络绎不绝。涉及投资、贸易、产业合作等多个领域。我们鼓励两岸企业发挥互补优势，深化互利合作，扩大贸易、投资规模。组织有关方面赴台采购，是我们对台湾同胞释放的善意。这些采购是认真的、务实的，都在严格按照协议如期履行承诺。我们对台湾有些人一直在散布一些不实之词感到遗憾。谢谢。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">福建海峡卫视记者：</strong>我有两个问题，一个问题是包括中央编译局副局长俞可平，社科院台研所所长余克礼在内的部分大陆学者近日前往台湾参加第二届“爱与和平论坛”，与岛内人士交流，想知道这些重要的大陆学者此行的主要目的是什么？第二个问题，据我们了解ECFA后续商谈正在上海进行，发言人是否知道谈判的相关进展？另外，外传两岸的经合会将在下周召开，不知道国台办方面有没有这方面的消息？谢谢。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">范丽青：</strong>您的第一个问题，据我们了解，大陆学者是应台湾淡江大学大陆研究所的邀请，赴台参加两岸学术交流活动。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">范丽青：</strong>您的第二个问题，为了推动实现ECFA后续各项目标，两岸经合会及其下属各工作小组一直保持密切的沟通，并且已经分别取得了阶段性的成果。根据ECFA有关“两岸经合会每半年召开一次例会”的规定，经合会的第3次例会拟于4月的中下旬在台湾召开，具体的时间、地点，由双方协商确定。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">中新社记者：</strong>我看到有报道说，台湾作家黄春明去年在演讲的时候，有人攻击他说，“台湾作家不用台语文创作是可耻的”，他因此跟人家发生了言语冲突，被告上法庭，日前被以公然侮辱罪判罚。台湾和大陆都有一些作家对台法官的判决感到不可思议。请问国台办有何评论？谢谢。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">范丽青：</strong>对于这一案件本身，我不评论。众所周知，台湾是闽南方言区，闽南话也是中国话的一种。我们要警惕有人利用方言来散布“台独”主张。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">中国国际广播电台海峡飞虹中文网记者：</strong>第一个问题，正在非洲访问的台湾地区领导人马英九9号说，因为两岸关系的改善让台湾的国际空间变大，但台湾的国际活动还有很多的限制，对此不满意，还在继续努力。请问发言人对此有何评论？第二个问题，两岸文教交流及社会各界，双方如能加快商谈及早达成一致，请问发言人，该协议的商谈进展如何？有无具体时间表？谢谢。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">范丽青：</strong>对于台湾参与国际组织活动问题，在不造成“两个中国”、“一中一台”的前提下，可以通过两岸务实协商作出合情合理的安排。这是我们的一贯立场。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">范丽青：</strong>您的第二个问题，两岸的文教交流有利于两岸文教事业的发展，也有利于两岸同胞共同弘扬中华文化。商签两岸文化教育领域的交流合作协议，是两岸文化界、教育界的共同期待。两岸的文化教育界人士，也一直在做相关的准备。我们也希望，商签两岸文化教育领域方面的交流合作协议能够列入两岸的协商议题，早日进行协商。谢谢。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">台湾《工商时报》记者：</strong>日前吴敦义在博鳌表示，希望两岸的证券和保险业可以参照银行业来建立监理合作平台。请问今年上半年两岸证券和保险业的监理平台是不是可能成立？另外，当时李克强副总理有提到说，未来将进一步扩大开放进口台湾的农渔产品，请问这些开放的产品项目会有哪些？开放的时间点大概会在什么时候？谢谢。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">范丽青：</strong>您的第一个问题涉及加强两岸金融合作。关于两岸金融合作，两岸有关方面一直在进行沟通，时机成熟了就会启动相应的合作。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">范丽青：</strong>您的第二个问题，ECFA早期收获计划今年应该说已经按双方约定的目标来实施、落实了，争取台湾的农渔产品进入大陆调降关税，这也是在ECFA后续协商货物贸易方面的商谈中，大家要共同讨论的，目前有关方面也都在进行两岸ECFA后续的协商。谢谢。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">团结报记者：</strong>日前有大陆学生在台湾两岸和平发展论坛上说到，陆生没有健保不敢看病的遭遇，台湾方面也已经推出了一系列的商业保险，但是还是难以消除对于陆生歧视的嫌疑，请问发言人，大陆方面有没有对此做一些工作？谢谢。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">范丽青：</strong>对于大陆学生赴台就读，学生目前也有了一些反映，我相信台湾方面也听到了。我们希望积极推动两岸的教育交流，但是同时也要为两岸的教育交流来创造有利的条件，希望台湾方面进一步为大陆学生赴台学习提供正常的环境和必要的条件。谢谢。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">法制晚报记者：</strong>我有两个问题。第一个问题，随着两岸的交流日益频繁，包括第二批个人游试点城市的开放以及今年是第二年启动大陆学生赴台就读，也有一些评论认为民间的交往手续还是比较麻烦的，请问一下国台办有没有注意到这个现象，有没有和台湾的相关部门采取一些沟通的措施？第二个问题，今年是蒋介石逝世73周年，近日蒋孝严认为两蒋陵墓移居大陆时机并不成熟，请问大陆对此持什么态度？谢谢。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">范丽青：</strong>您的第一个问题，我们希望台湾方面为大陆学生赴台学习提供更加正常的环境和必要的条件。您的第二个问题，我目前没有这方面的信息。谢谢。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">人民日报记者：</strong>我有个小问题，第二批开放个人游10个城市里，好象没有东北地区的城市，日前台湾相关部门的负责人表示说，这是大陆方面的一个考虑，不知道发言人知不知道大陆方面是出于什么样的考虑这样安排？谢谢。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">范丽青：</strong>第二批开放赴台个人游的试点城市包括天津、重庆、南京、杭州、广州、成都、济南、西安、福州和深圳，开放的城市是经过两岸协商决定的。谢谢。 </font></p>
+<p><font style="font-size: 10.5pt">　　<strong style="font-size: 10.5pt">范丽青：</strong>今天的发布会就到这里，谢谢大家。 </font></p>
+<p><font style="font-size: 10.5pt">　　</font></p>
+      <p></p>
+    </div>
+  </div>
