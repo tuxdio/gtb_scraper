@@ -16,7 +16,7 @@ python scrape_gtb.py rebuild     # 从 raw/ 离线构建（不联网，约 2 秒
 python scrape_gtb.py search 九二共识 -n 3
 ```
 
-> 数据来源：<https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/> ｜ 代码 MIT ｜ 语料版权归国务院台办，**仅供研究/教学，禁止商用转售**（详见[版权与许可](#版权与许可)）
+> 数据来源：<https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/> ｜ 数据存档：Harvard Dataverse，DOI [10.7910/DVN/YHDWIJ](https://doi.org/10.7910/DVN/YHDWIJ) ｜ 代码 MIT ｜ 语料版权归国务院台办，**仅供研究/教学，禁止商用转售**（详见[版权与许可](#版权与许可)）
 
 ## 这是什么
 
@@ -441,6 +441,12 @@ FTS5 的 `trigram` 分词器按 3 字符窗口建索引，任意子串命中；�
 ```text
 国务院台湾事务办公室. 新闻发布会文字实录（2000-09-05 至 2026-10-21）[DB/OL].
 https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/（经 gtb_scraper 转换整理）
+```
+
+数据集引用（Harvard Dataverse 存档）：
+
+```text
+Bin Liang, 2026, "Taiwan Affairs Office (TAO) Press Conference Transcript Corpus: 441 Sessions and 7,597 Q&A Pairs (2000-2026)", https://doi.org/10.7910/DVN/YHDWIJ, Harvard Dataverse, V1
 ```
 
 ## 变更记录

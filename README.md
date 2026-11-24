@@ -16,6 +16,7 @@ python scrape_gtb.py search 九二共识 -n 3
 ```
 
 > **Source:** <https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/>
+> **Dataset:** Archived on Harvard Dataverse — DOI [10.7910/DVN/YHDWIJ](https://doi.org/10.7910/DVN/YHDWIJ).
 > **Code:** MIT.
 > **Corpus:** text copyright belongs to the Taiwan Affairs Office of the State Council. Provided for research and teaching only — **no commercial use, no resale, and no redistribution of the full text**. See [Copyright and license](#copyright-and-license).
 
@@ -438,6 +439,12 @@ English translation:
 Taiwan Affairs Office of the State Council. Press Conference Transcripts
 (2000-09-05 – 2026-10-21) [DB/OL]. https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/
 (converted and organized with gtb_scraper)
+```
+
+Dataset citation (archived on Harvard Dataverse):
+
+```text
+Bin Liang, 2026, "Taiwan Affairs Office (TAO) Press Conference Transcript Corpus: 441 Sessions and 7,597 Q&A Pairs (2000-2026)", https://doi.org/10.7910/DVN/YHDWIJ, Harvard Dataverse, V1
 ```
 
 ## Changelog
